@@ -1,6 +1,8 @@
 #rsschool-cv
 ---------
+
 ##Ivan Lapaev
+
 ---------
 #Junior Frontend Developer
 ---------
