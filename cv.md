@@ -6,9 +6,9 @@
 ---------
 ### Contact Information:
 
-* Phone: +79258582747>
-* E-mail: ivan-lapaev@mail.ru>
-* Telegram: @IvanLapaev1>
+* Phone: +79258582747
+* E-mail: ivan-lapaev@mail.ru
+* Telegram: @IvanLapaev1
 ----------
 ### Briefly About Myself:
 
@@ -19,8 +19,7 @@ I believe that my ability to learn and acquire new skills will help me become an
 -----------
 ### Skills and Proficiency:
 
-* HTML5, CSS3
-* JavaSkript Basicks
+* HTML5, CSS3 Basiс
 * Git, GitHub
 * VS Code, Terminal
 * Figma
