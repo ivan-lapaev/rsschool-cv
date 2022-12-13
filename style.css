@@ -1,0 +1,228 @@
+* {
+    box-sizing: border-box;
+  }
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: 'Roboto';
+  }
+
+.header {
+    display-box: flex;
+    padding-top: 100px;
+    padding-left: 565px;
+    background-color: #FFFFFF;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.header-title {
+font-style: normal; 
+font-weight: 700;
+font-size: 70px;
+line-height: 82px;
+margin-top: 100px;
+color: #2D2F31;
+}
+
+.header-light {
+font-style: light;
+font-weight: 300;
+font-size: 40px;
+line-height: 47px;
+margin-top: 93px;
+color: #2D2F31;
+display: block;
+width: 492px;
+height: 72px;
+background-color: #EBEBEB;
+line-height: 70px;
+text-align: center;
+}
+
+.summary-title {
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+font-weight: 47px;
+margin-top: 88px;
+color: #2D2F31;
+}
+
+.summary-text {
+font-weight: 300;
+font-size: 24px;
+line-height: 32px;
+width: 771px;
+height: 310px;
+top: 489px;
+left: 565px;
+color: #2D2F31;
+}
+
+.skills-title {
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+font-weight: 47px;
+margin-top: 50px;
+color: #2D2F31;    
+}
+
+.first-row {
+display: inline-block;
+}
+
+
+.element-1 {
+font-weight: 300;
+font-size: 24px;
+height: 28px;
+margin-top: 20px;
+color: #2D2F31;
+}
+
+.element-2 {
+    font-weight: 300;
+    font-size: 24px;
+    height: 28px;
+    margin-top: 20px;
+    color: #2D2F31;
+    }
+
+.element-3 {
+font-weight: 300;
+font-size: 24px;
+height: 28px;
+margin-top: 20px;
+color: #2D2F31;
+}
+
+.second-row {
+    display: inline-block;
+}
+
+.element-4 {
+font-weight: 300;
+font-size: 24px;
+height: 28px;
+margin-top: 20px;
+margin-left: 70px;
+color: #2D2F31;
+}
+
+.element-5 {
+font-weight: 300;
+font-size: 24px;
+height: 28px;
+margin-top: 20px;
+margin-left: 70px;
+color: #2D2F31;
+}
+
+.element-6 {
+font-weight: 300;
+font-size: 24px;
+height: 28px;
+margin-top: 20px;
+margin-left: 70px;
+color: #2D2F31;
+}
+
+.code-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    font-weight: 47px;
+    margin-top: 50px;
+    color: #2D2F31;  
+}
+
+.code-text {
+font-weight: 300;
+font-size: 24px;
+line-height: 32px;
+margin-top: 20px;
+color: #2D2F31;
+}
+
+.project-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    font-weight: 47px;
+    margin-top: 80px;
+    color: #2D2F31;
+}
+
+.project-text {
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 32px;
+    margin-top: 20px;
+    color: #2D2F31;   
+}
+
+.english-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    font-weight: 47px;
+    margin-top: 80px;
+    color: #2D2F31;
+}
+
+.english-text {
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 32px;
+    margin-top: 20px;
+    color: #2D2F31;   
+}
+
+.hobbies-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    font-weight: 47px;
+    margin-top: 50px;
+    color: #2D2F31;
+}
+
+.travel-icon {
+    display: inline-block;
+    Width: 50px;
+    Height:50px;
+    Top: 1657px;
+    Left: 574px;
+}
+
+.travel-text {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: 700;
+    font-style: normal;
+    margin-top: 90px;
+    color: #2D2F31;
+}
+
+.music-icon {
+    display: block;
+    Width: 50px;
+    Height: 50px;
+    Top: 1657px;
+    Left: 704px;
+}
+
+.audio-text {
+    font-size: 24px;
+    font-weight: 700;
+    font-style: normal;
+    margin-top: 90px;
+    color: #2D2F31;
+}
