@@ -2,7 +2,7 @@
     box-sizing: border-box;
     padding: 0px;
     margin: 0px;
-  }
+}
 
 body {
     min-height: 100vh;
@@ -32,10 +32,12 @@ body {
 }
 
 .job {
-    font-style: light;
+    font-family: 'Roboto';
+    font-style: normal;
     font-weight: 300;
     font-size: 40px;
     line-height: 47px;
+    text-align: center;    
     margin-left: 565px;
     margin-top: 93px;
     color: #2D2F31;
