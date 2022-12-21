@@ -1,23 +1,25 @@
 * {
     box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
   }
 
-.body {
-    display: flex;
+body {
+    min-height: 100vh;
+    display: inline-flex;
     flex-direction: column;
-    max-width: 1440px;
-    height: 100vh;
-    margin: 0;
-    padding: 0;
-    background-size: cover;
     justify-content: space-between;
-    font-family: 'Roboto';
-  }
-
-.header {
-    display-box: flex;
     background-color: #FFFFFF;
-  }
+    font-family: 'Roboto';
+
+} 
+
+.wrapper {
+    max-width: 1440px;
+    padding: 0 16px;
+    margin: 0 auto;
+    justify-content: center;
+}
 
 .name {
     font-style: normal; 
@@ -42,15 +44,6 @@
     line-height: 70px;
     text-align: center;
     background-color: #EBEBEB; 
-}
-
-.absolute-position { 
-    position: absolute;
-    top: 0;
-    left: 0;
-    box-sizing: content-box;
-    width: 445px;
-    height: 688px;
 }
 
 .summary-title {
@@ -86,6 +79,7 @@
 
 .first-row {
     display: inline-block;
+    margin-left: 20px;
 
 }
 
@@ -155,6 +149,10 @@
     margin-top: 50px;
     margin-left: 565px;
     color: #2D2F31; 
+}
+
+.code-text {
+    margin-top: 20px;
 }
 
 .code {
@@ -235,6 +233,7 @@
 
 .hobbies-text {
     display: flex;
+    margin-top: 20px;
 }
 
 .travel-p {
@@ -261,7 +260,7 @@
 
 .rs-school {
     margin-left: 565px;
-    margin-top: 300px;
+    margin-top: 538px;
     margin-bottom: 50px;
 }
 
@@ -271,7 +270,7 @@
 }
 
 .years-now {
-    margin-top: 300px;
+    margin-top: 565px;
     margin-left: 516px;
     margin-bottom: 37px;
     color: #2D2F31;
@@ -285,6 +284,15 @@
     width: 445px;
     height: 1750px;
     background-color: #2D2F31;
+}
+
+.absolute-position { 
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-sizing: content-box;
+    width: 445px;
+    height: 688px;
 }
 
 .contact-title {
@@ -433,7 +441,7 @@
 
 .github-icon {
     margin-left: 70px;
-    margin-top: 635px;
+    margin-top: 750px;
 }
 
 .icon-git {
